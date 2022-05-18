@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="176b7dcb-2d4a-4761-b8e8-bc7bdaa116d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VN2_T03_PYTHON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VN2-B01_PythonTraining.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/.idea/_01_Introduction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/VN2-B01_PythonTraining.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/_01_Introduction.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/_02_Intro Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/_03_compiler vs interpreter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/_04_compiler &amp; interpreter diff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/_05_oops vs functional programming.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/_06_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Introduction/~$1_Introduction.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_numbers/_00_Generic_Functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_numbers/_01_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_numbers/_02_conversions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_numbers/_2_bool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_numbers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/.idea/_02_ Variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/class_notes/2.Variables.docx" beforeDir="false" afterPath="$PROJECT_DIR$/_02_ Variables/class_notes/2.Variables.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/class_notes/_05_tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_ Variables/class_notes/_05_tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/class_notes/_0_notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_ Variables/class_notes/_0_notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/class_notes/~$Variables.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/self_notes/Nimber System.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_ Variables/self_notes/SELF Notes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/Notes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_1_Mem_allocations/_0_0_types_of_var_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_1_Mem_allocations/_0_1_introduction_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_1_Mem_allocations/_1_String_mem_allocation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_1_Mem_allocations/_1_memory_allc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_1_Mem_allocations/_1_memory_allocation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_1_Mem_allocations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_2_Sequence_Ops/_2_Sequence_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_2_Sequence_Ops/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_3_Immutable/_3_Immutability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_3_Immutable/_3_int_immutable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_3_Immutable/_3_str_immutable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_3_Immutable/_3_string_immu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_3_Immutable/_3_string_immu1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_3_Immutable/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/_4_0_Int,Float,Bool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/_4_0_String_Functions_V1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/_4_0_String_Functions_V2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/str_functions/_1_capitalize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/str_functions/_2_center_I.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/str_functions/_3_count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/str_functions/_4_encode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/_4_Functions/str_functions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_String/format_&amp;_ format_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/06-Jul_21_Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/4. Operators.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/4. assignment_op.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/4. identity,comp ops.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/Arithmetic,Comaprsion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/Comparsion vs Identity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/_4_Operator_Identity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/_4_Operators_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/_6_comp1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/_6_comp2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/_Other operators.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/_assignment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/mem_allc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/operaters pratice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Operators/_04_Operators/~$ Operators.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/_1_datatypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/_2_datastructures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/practice file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/practice_datatypes/_01_practice data types introduction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/practice_datatypes/_02_practice_number type&amp;casting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/practice_datatypes/_03_practice_strings_lists_tuples_dictionaries_sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/practice_datatypes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/sef notes and practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_DataStructures_Intro/self notes and pratice2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/_2_if_else/_2_Conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/_2_if_else/_2_Two_conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/_2_if_else/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/_bus pass_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/_flight_ticket_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/_mobile_phone_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/_movie ticket_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/_practice_if_condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_07_DecisionMaking 29.01.22/__practice__/ifelse_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/_1_if pratice file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/_1_if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/_1_if2_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/_1_one_condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/_2_if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_2_if_else/_2_Conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_2_if_else/_2_Two_conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/_2_if_else/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/Decision Making Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/Decision practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/_bus pass_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/_flight_ticket_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/_mobile_phone_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/_movie ticket_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/_practice_if_condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/ifelse_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/For-vs-While-Loop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_01_basics/1.loops.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_01_basics/2.for_loop.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_01_basics/_1_Why_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_01_basics/assignment 01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_01_basics/assignment 02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_01_basics/for loop practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_0_for_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_0_variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_1_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_2_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_3_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_4_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_5_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/_6_Set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_02_for_loop_with_datastructures/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_03_for_loop/_0_for_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_03_for_loop/_1_basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_03_for_loop/_2_real_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_03_for_loop/_3_Control_Statemetnst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_03_for_loop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_04_Control_Stmts/_1_break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_04_Control_Stmts/_2_continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_04_Control_Stmts/_3_pass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_04_Control_Stmts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/_1_0_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/_1_1_other_examples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/_2_basic_while.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/_3_print_ev_numbres.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/_4_more_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/control statements practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/control_stmts/_1_pass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/control_stmts/_2_break_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/control_stmts/_3_continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/control_stmts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/_05_while/while loop pratice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loop_flowchart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (67).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (68).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (69).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (70).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (71).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (73).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/Screenshot (74).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/for_loops _assignments/forloop _assignments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_Loops/loops_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_01_numbers/Data Strucutres practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_01_numbers/_00_Generic_Functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_01_numbers/_01_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_01_numbers/_02_conversions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_01_numbers/_2_bool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_01_numbers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/Notes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_1_Mem_allocations/_0_0_types_of_var_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_1_Mem_allocations/_0_1_introduction_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_1_Mem_allocations/_1_String_mem_allocation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_1_Mem_allocations/_1_memory_allc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_1_Mem_allocations/_1_memory_allocation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_1_Mem_allocations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_2_Sequence_Ops/_2_Sequence_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_2_Sequence_Ops/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_3_Immutable/_3_Immutability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_3_Immutable/_3_int_immutable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_3_Immutable/_3_str_immutable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_3_Immutable/_3_string_immu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_3_Immutable/_3_string_immu1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_3_Immutable/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/_4_0_Int,Float,Bool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/_4_0_String_Functions_V1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/_4_0_String_Functions_V2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/str_functions/_1_capitalize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/str_functions/_2_center_I.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/str_functions/_3_count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/str_functions/_4_encode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/_4_Functions/str_functions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_Data_Structures 02.05.2022/_02_String/format_&amp;_ format_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/.idea/_0_maths_basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/_1_Number_System.py" beforeDir="false" afterPath="$PROJECT_DIR$/_0_maths_basics/_1_Number_System.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_0_maths_basics/_7_Algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/_0_maths_basics/_7_Algebra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_flowchart.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-design-roadmap.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation  notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_notes/DAY 1.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29KwEzt7rGXEr5BpNpnDGzjgf9z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="176b7dcb-2d4a-4761-b8e8-bc7bdaa116d7" name="Default Changelist" comment="" />
+      <created>1652875013609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652875013609</updated>
+    </task>
+    <servers />
+  </component>
+</project>
